@@ -8,12 +8,12 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.hjunvdmciw.discoverer
+        bundle_identifier: com.oiuerxc.difference
       vars:
-        BUNDLE_ID: "com.hjunvdmciw.discoverer"
+        BUNDLE_ID: "com.oiuerxc.difference"
         XCODE_WORKSPACE: "hello_world.xcworkspace"
         XCODE_SCHEME: "hello_world-mobile"
-        APP_STORE_APPLE_ID: 6547847054
+        APP_STORE_APPLE_ID: 6572285316
       xcode: latest # <-- set to specific version e.g. 14.3, 15.0 to avoid unexpected updates.
       cocoapods: default
     scripts:
