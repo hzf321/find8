@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "raccoon_btnok",
+    "texture": "e65145c6-0702-402d-9839-0009e10dda53",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      260,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

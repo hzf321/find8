@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "raccoon_title2",
+    "texture": "515ea936-68e8-43ac-b30c-08361354dd7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      342,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      342,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

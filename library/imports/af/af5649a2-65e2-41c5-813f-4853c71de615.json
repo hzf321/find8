@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "mason_defeng1",
+    "name": "rhinoceros_defeng1",
     "texture": "e2cd6855-bdf7-4906-ba6f-b174e2081461",
     "atlas": "",
     "rect": [
       0,
       0,
-      26,
-      26
+      30,
+      30
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      26,
-      26
+      30,
+      30
     ],
     "capInsets": [
       0,

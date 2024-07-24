@@ -1,0 +1,149 @@
+{
+  "projectPath": "/Users/aw/Desktop/find8",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "1ade1819-4666-41c0-90b7-713add03720d": {
+      "assetMtime": 1715846992000,
+      "metaMtime": 1721790557015
+    },
+    "64829083-44f0-4184-9e41-b22907ddbca7": {
+      "assetMtime": 1721612860000,
+      "metaMtime": 1721790557044
+    },
+    "a995e65c-37c2-4df6-a0c3-15d1ccafd2df": {
+      "assetMtime": 1721612860000,
+      "metaMtime": 1721790557044
+    },
+    "94da9d01-212a-4f8f-9c91-6fbb429bef5d": {
+      "assetMtime": 1721612872000,
+      "metaMtime": 1721790557028
+    },
+    "478920d9-6cd3-4c28-a382-135c18191e6b": {
+      "assetMtime": 1721612872000,
+      "metaMtime": 1721790557028
+    },
+    "fd20afa7-4d67-4b83-85be-04e03d515025": {
+      "assetMtime": 1721612860000,
+      "metaMtime": 1721790557033
+    },
+    "25755345-524f-4636-a244-674d59d892a3": {
+      "assetMtime": 1721612860000,
+      "metaMtime": 1721790557033
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "1ade1819-4666-41c0-90b7-713add03720d",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "cheetah_logo",
+            "uuid": "64829083-44f0-4184-9e41-b22907ddbca7",
+            "textureUuid": "a995e65c-37c2-4df6-a0c3-15d1ccafd2df",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745310_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 572,
+              "height": 289,
+              "rotatedWidth": 289,
+              "rotatedHeight": 572
+            },
+            "rawWidth": 572,
+            "rawHeight": 289,
+            "width": 578,
+            "height": 295,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/a9/a995e65c-37c2-4df6-a0c3-15d1ccafd2df.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 295,
+            "rotatedHeight": 578
+          },
+          {
+            "name": "cheetah_play",
+            "uuid": "fd20afa7-4d67-4b83-85be-04e03d515025",
+            "textureUuid": "25755345-524f-4636-a244-674d59d892a3",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745311_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 581,
+              "width": 194,
+              "height": 199,
+              "rotatedWidth": 199,
+              "rotatedHeight": 194
+            },
+            "rawWidth": 194,
+            "rawHeight": 199,
+            "width": 200,
+            "height": 205,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/25/25755345-524f-4636-a244-674d59d892a3.png",
+            "x": 0,
+            "y": 578,
+            "rotated": true,
+            "rotatedWidth": 205,
+            "rotatedHeight": 200
+          },
+          {
+            "name": "cheetah_load",
+            "uuid": "94da9d01-212a-4f8f-9c91-6fbb429bef5d",
+            "textureUuid": "478920d9-6cd3-4c28-a382-135c18191e6b",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745310_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 781,
+              "width": 120,
+              "height": 120,
+              "rotatedWidth": 120,
+              "rotatedHeight": 120
+            },
+            "rawWidth": 120,
+            "rawHeight": 120,
+            "width": 126,
+            "height": 126,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/47/478920d9-6cd3-4c28-a382-135c18191e6b.png",
+            "x": 0,
+            "y": 778,
+            "rotatedWidth": 126,
+            "rotatedHeight": 126
+          }
+        ],
+        "width": 295,
+        "height": 904,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/cheetah/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/cheetah/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

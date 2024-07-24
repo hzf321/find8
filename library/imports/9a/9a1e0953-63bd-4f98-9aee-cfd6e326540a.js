@@ -49,8 +49,8 @@ var newhand = /** @class */ (function (_super) {
         this.dongdong1_bottom.height = 500;
         cc.Tween.stopAllByTarget(this.dong1_top);
         cc.Tween.stopAllByTarget(this.dongdong1_bottom);
-        cc.tween(this.dong1_top).to(0.5, { width: 80, height: 80 }).start();
-        cc.tween(this.dongdong1_bottom).to(0.5, { width: 80, height: 80 }).delay(0.1).call(function () {
+        cc.tween(this.dong1_top).to(0.5, { width: 60, height: 60 }).start();
+        cc.tween(this.dongdong1_bottom).to(0.5, { width: 60, height: 60 }).delay(0.1).call(function () {
             _this.hand1.active = true;
         }).start();
     };
@@ -70,8 +70,8 @@ var newhand = /** @class */ (function (_super) {
         this.dongdong2_bottom.height = 500;
         cc.Tween.stopAllByTarget(this.dong2_top);
         cc.Tween.stopAllByTarget(this.dongdong2_bottom);
-        cc.tween(this.dong2_top).to(0.5, { width: 80, height: 80 }).start();
-        cc.tween(this.dongdong2_bottom).to(0.5, { width: 80, height: 80 }).delay(0.1).call(function () {
+        cc.tween(this.dong2_top).to(0.5, { width: 60, height: 60 }).start();
+        cc.tween(this.dongdong2_bottom).to(0.5, { width: 60, height: 60 }).delay(0.1).call(function () {
             _this.hand2.active = true;
         }).start();
     };

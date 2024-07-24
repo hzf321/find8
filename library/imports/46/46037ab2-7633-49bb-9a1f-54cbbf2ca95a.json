@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "mason_touxiangborder",
+    "name": "rhinoceros_touxiangborder",
     "texture": "0b7a5322-3d6c-4ccb-b507-70bc97dd0c2d",
     "atlas": "",
     "rect": [
       0,
       0,
-      90,
-      90
+      124,
+      128
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      90,
-      90
+      124,
+      128
     ],
     "capInsets": [
       0,

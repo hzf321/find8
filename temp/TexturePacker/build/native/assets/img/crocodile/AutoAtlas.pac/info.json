@@ -1,0 +1,118 @@
+{
+  "projectPath": "/Users/aw/Desktop/find8",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "b5922191-7c2c-4b47-82dc-5957066ae2fe": {
+      "assetMtime": 1715847014000,
+      "metaMtime": 1721790557062
+    },
+    "1c89c756-e00b-4705-afc7-a420b184e52a": {
+      "assetMtime": 1721629492000,
+      "metaMtime": 1721790557081
+    },
+    "92703a1e-7700-463f-8442-f5c363c95110": {
+      "assetMtime": 1721629492000,
+      "metaMtime": 1721790557081
+    },
+    "86590ee3-cc08-41af-bf2a-210abb0751c8": {
+      "assetMtime": 1721629492000,
+      "metaMtime": 1721790557077
+    },
+    "28273ac9-a9c1-4419-a365-43908f3462a5": {
+      "assetMtime": 1721629492000,
+      "metaMtime": 1721790557077
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "b5922191-7c2c-4b47-82dc-5957066ae2fe",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "crocodile_btn",
+            "uuid": "86590ee3-cc08-41af-bf2a-210abb0751c8",
+            "textureUuid": "28273ac9-a9c1-4419-a365-43908f3462a5",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790743276_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 260,
+              "height": 111,
+              "rotatedWidth": 111,
+              "rotatedHeight": 260
+            },
+            "rawWidth": 260,
+            "rawHeight": 111,
+            "width": 266,
+            "height": 117,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/28/28273ac9-a9c1-4419-a365-43908f3462a5.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 117,
+            "rotatedHeight": 266
+          },
+          {
+            "name": "crocodile_title",
+            "uuid": "1c89c756-e00b-4705-afc7-a420b184e52a",
+            "textureUuid": "92703a1e-7700-463f-8442-f5c363c95110",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790743275_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 269,
+              "width": 342,
+              "height": 93,
+              "rotatedWidth": 93,
+              "rotatedHeight": 342
+            },
+            "rawWidth": 342,
+            "rawHeight": 93,
+            "width": 348,
+            "height": 99,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/92/92703a1e-7700-463f-8442-f5c363c95110.png",
+            "x": 0,
+            "y": 266,
+            "rotated": true,
+            "rotatedWidth": 99,
+            "rotatedHeight": 348
+          }
+        ],
+        "width": 117,
+        "height": 614,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/crocodile/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/crocodile/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

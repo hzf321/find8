@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "fight_21",
+    "name": "strong_21",
     "texture": "bae546d5-da43-46da-a1d6-0aaadc1e86cc",
     "atlas": "",
     "rect": [
       0,
       0,
-      1232,
-      928
+      1456,
+      832
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      1232,
-      928
+      1456,
+      832
     ],
     "capInsets": [
       0,

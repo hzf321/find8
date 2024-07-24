@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rhinoceros_zhankai",
+    "texture": "6f9fa132-f8a7-42ef-be8a-2ffcaa22dcf9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      510
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      510
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

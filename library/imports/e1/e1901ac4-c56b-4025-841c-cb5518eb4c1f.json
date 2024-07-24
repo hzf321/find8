@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.Prefab",
-    "_name": "YellowDialog",
+    "_name": "MiaPop",
     "_objFlags": 0,
     "_native": "",
     "data": {
@@ -13,7 +13,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "YellowDialog",
+    "_name": "MiaPop",
     "_objFlags": 0,
     "_parent": null,
     "_children": [
@@ -46,8 +46,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 1280,
-      "height": 720
+      "width": 720,
+      "height": 1280
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -58,8 +58,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        640,
         360,
+        640,
         0,
         0,
         0,
@@ -116,8 +116,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 1280,
-      "height": 720
+      "width": 720,
+      "height": 1280
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -342,8 +342,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 650,
-      "height": 662
+      "width": 607,
+      "height": 610
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -449,8 +449,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 286,
-      "height": 85
+      "width": 342,
+      "height": 93
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -462,7 +462,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        233.283,
+        287.148,
         0,
         0,
         0,
@@ -741,14 +741,14 @@
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 119,
+      "g": 87,
+      "b": 157,
       "a": 255
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 573,
+      "width": 520,
       "height": 176
     },
     "_anchorPoint": {
@@ -761,7 +761,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        78.054,
+        0,
         0,
         0,
         0,
@@ -802,7 +802,7 @@
     "_dstBlendFactor": 771,
     "_string": "Using this application signifies that l have agreedto the terms of use of the gaming company andconfirmed that l have read the privacy policy.",
     "_N$string": "Using this application signifies that l have agreedto the terms of use of the gaming company andconfirmed that l have read the privacy policy.",
-    "_fontSize": 30,
+    "_fontSize": 25,
     "_lineHeight": 40,
     "_enableWrapText": true,
     "_N$file": null,
@@ -859,8 +859,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 281,
-      "height": 90
+      "width": 260,
+      "height": 111
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -872,7 +872,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        -244.653,
+        -385.17,
         0,
         0,
         0,
@@ -1065,7 +1065,7 @@
       "ctor": "Float64Array",
       "array": [
         -143.282,
-        -133.353,
+        -237.509,
         0,
         0,
         0,
@@ -1109,9 +1109,9 @@
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 103,
+      "g": 52,
+      "b": 164,
       "a": 255
     },
     "_contentSize": {
@@ -1334,7 +1334,7 @@
       "ctor": "Float64Array",
       "array": [
         120.429,
-        -133.353,
+        -237.509,
         0,
         0,
         0,
@@ -1378,9 +1378,9 @@
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 103,
+      "g": 52,
+      "b": 164,
       "a": 255
     },
     "_contentSize": {

@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "william_jiantou",
+    "name": "koala_jiantou",
     "texture": "b7045a19-d91a-4685-9cbc-3d10de892280",
     "atlas": "",
     "rect": [
       0,
       0,
-      107,
-      107
+      111,
+      111
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      107,
-      107
+      111,
+      111
     ],
     "capInsets": [
       0,

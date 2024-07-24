@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rhinoceros_agameove",
+    "texture": "2769566b-29d2-4379-a668-fdbbb5c58b64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      588,
+      336
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      588,
+      336
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

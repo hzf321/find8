@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "fight_27",
+    "name": "strong_27",
     "texture": "1776472d-f3aa-4fce-b971-d602b69c8e1b",
     "atlas": "",
     "rect": [
       0,
       0,
-      1232,
-      928
+      1456,
+      832
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      1232,
-      928
+      1456,
+      832
     ],
     "capInsets": [
       0,

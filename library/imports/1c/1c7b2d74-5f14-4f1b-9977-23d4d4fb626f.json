@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "panda_shengli",
+    "texture": "4b405596-a127-4fe1-aec6-a3f182216fe6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      549,
+      220
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      549,
+      220
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

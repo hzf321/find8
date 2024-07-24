@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "sun_11",
+    "name": "open_11",
     "texture": "527b7111-a285-4fbe-8a3e-dd7c94057f4e",
     "atlas": "",
     "rect": [
       0,
       0,
-      1232,
-      928
+      1456,
+      832
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      1232,
-      928
+      1456,
+      832
     ],
     "capInsets": [
       0,

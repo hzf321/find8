@@ -1,0 +1,182 @@
+{
+  "projectPath": "/Users/aw/Desktop/find8",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "4f3db73f-175c-4a54-a84e-cbce93353f76": {
+      "assetMtime": 1715847002000,
+      "metaMtime": 1721790557158
+    },
+    "080e79b2-5558-4f07-94f9-195e6ba1f29f": {
+      "assetMtime": 1721629084000,
+      "metaMtime": 1721790557217
+    },
+    "b2627d41-6750-4269-b450-c6eb05b1d5c7": {
+      "assetMtime": 1721629084000,
+      "metaMtime": 1721790557217
+    },
+    "27443af5-37fe-4157-9bcb-c4629ead5a3a": {
+      "assetMtime": 1721620582000,
+      "metaMtime": 1721790557236
+    },
+    "515ea936-68e8-43ac-b30c-08361354dd7a": {
+      "assetMtime": 1721620582000,
+      "metaMtime": 1721790557236
+    },
+    "b5eddf75-afd8-484b-b92a-5fd8de430c02": {
+      "assetMtime": 1721620428000,
+      "metaMtime": 1721790557234
+    },
+    "40942c53-61ce-4c4a-a3be-851a30479668": {
+      "assetMtime": 1721620428000,
+      "metaMtime": 1721790557234
+    },
+    "ed3a2f32-1fb3-475a-806b-2a6bf09879d1": {
+      "assetMtime": 1721620030000,
+      "metaMtime": 1721790557219
+    },
+    "e65145c6-0702-402d-9839-0009e10dda53": {
+      "assetMtime": 1721620030000,
+      "metaMtime": 1721790557219
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "4f3db73f-175c-4a54-a84e-cbce93353f76",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "raccoon_contiuebtn",
+            "uuid": "080e79b2-5558-4f07-94f9-195e6ba1f29f",
+            "textureUuid": "b2627d41-6750-4269-b450-c6eb05b1d5c7",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790744611_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 300,
+              "height": 111,
+              "rotatedWidth": 111,
+              "rotatedHeight": 300
+            },
+            "rawWidth": 300,
+            "rawHeight": 111,
+            "width": 306,
+            "height": 117,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/b2/b2627d41-6750-4269-b450-c6eb05b1d5c7.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 117,
+            "rotatedHeight": 306
+          },
+          {
+            "name": "raccoon_title2",
+            "uuid": "27443af5-37fe-4157-9bcb-c4629ead5a3a",
+            "textureUuid": "515ea936-68e8-43ac-b30c-08361354dd7a",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790744612_image_1.png",
+            "trim": {
+              "x": 120,
+              "y": 3,
+              "width": 342,
+              "height": 93,
+              "rotatedWidth": 93,
+              "rotatedHeight": 342
+            },
+            "rawWidth": 342,
+            "rawHeight": 93,
+            "width": 348,
+            "height": 99,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/51/515ea936-68e8-43ac-b30c-08361354dd7a.png",
+            "x": 117,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 99,
+            "rotatedHeight": 348
+          },
+          {
+            "name": "raccoon_title",
+            "uuid": "b5eddf75-afd8-484b-b92a-5fd8de430c02",
+            "textureUuid": "40942c53-61ce-4c4a-a3be-851a30479668",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790744612_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 309,
+              "width": 342,
+              "height": 93,
+              "rotatedWidth": 93,
+              "rotatedHeight": 342
+            },
+            "rawWidth": 342,
+            "rawHeight": 93,
+            "width": 348,
+            "height": 99,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/40/40942c53-61ce-4c4a-a3be-851a30479668.png",
+            "x": 0,
+            "y": 306,
+            "rotated": true,
+            "rotatedWidth": 99,
+            "rotatedHeight": 348
+          },
+          {
+            "name": "raccoon_btnok",
+            "uuid": "ed3a2f32-1fb3-475a-806b-2a6bf09879d1",
+            "textureUuid": "e65145c6-0702-402d-9839-0009e10dda53",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790744615_image_3.png",
+            "trim": {
+              "x": 102,
+              "y": 351,
+              "width": 260,
+              "height": 111,
+              "rotatedWidth": 111,
+              "rotatedHeight": 260
+            },
+            "rawWidth": 260,
+            "rawHeight": 111,
+            "width": 266,
+            "height": 117,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/e6/e65145c6-0702-402d-9839-0009e10dda53.png",
+            "x": 99,
+            "y": 348,
+            "rotated": true,
+            "rotatedWidth": 117,
+            "rotatedHeight": 266
+          }
+        ],
+        "width": 216,
+        "height": 654,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/raccoon/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/raccoon/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

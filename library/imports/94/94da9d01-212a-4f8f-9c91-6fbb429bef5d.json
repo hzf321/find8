@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "sophia_load",
+    "name": "cheetah_load",
     "texture": "478920d9-6cd3-4c28-a382-135c18191e6b",
     "atlas": "",
     "rect": [
       0,
       0,
-      141,
-      141
+      120,
+      120
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      141,
-      141
+      120,
+      120
     ],
     "capInsets": [
       0,

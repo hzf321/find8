@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rhinoceros_amuzhi",
+    "texture": "34f11048-9432-4778-bea5-1e351c1b4cb2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      191
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      191
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

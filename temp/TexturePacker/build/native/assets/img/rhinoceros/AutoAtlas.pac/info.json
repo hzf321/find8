@@ -1,0 +1,810 @@
+{
+  "projectPath": "/Users/aw/Desktop/find8",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "e6f44706-1290-4c47-9a06-2dbc243ac8f4": {
+      "assetMtime": 1715846998000,
+      "metaMtime": 1721790557208
+    },
+    "0a9be256-b020-49fc-940f-1efd127bc008": {
+      "assetMtime": 1721616770000,
+      "metaMtime": 1721790557225
+    },
+    "1ef2490c-663b-4f11-8493-466914daa554": {
+      "assetMtime": 1721616770000,
+      "metaMtime": 1721790557225
+    },
+    "14187d2a-2ef2-47cc-a572-bf4c4fab8673": {
+      "assetMtime": 1721616998000,
+      "metaMtime": 1721790557313
+    },
+    "5c105057-5438-4e04-9aa7-373d2a060d95": {
+      "assetMtime": 1721616998000,
+      "metaMtime": 1721790557313
+    },
+    "14c0c879-6912-4df6-b6e8-3a38e2e90b7c": {
+      "assetMtime": 1721616528000,
+      "metaMtime": 1721790557297
+    },
+    "1a0af009-2b47-450b-a1eb-83c5e08d2ff4": {
+      "assetMtime": 1721616528000,
+      "metaMtime": 1721790557297
+    },
+    "265773da-ae05-4c92-9c8a-bb53f58521b9": {
+      "assetMtime": 1721630814000,
+      "metaMtime": 1721790557246
+    },
+    "b16eae65-4a88-42d1-95ee-3d3ba7dbc05a": {
+      "assetMtime": 1721630814000,
+      "metaMtime": 1721790557246
+    },
+    "2a144ba4-14fe-4f3f-b137-93d734006e19": {
+      "assetMtime": 1721631928000,
+      "metaMtime": 1721790557233
+    },
+    "34f11048-9432-4778-bea5-1e351c1b4cb2": {
+      "assetMtime": 1721631928000,
+      "metaMtime": 1721790557233
+    },
+    "44e84fd6-f62d-4b1d-8dda-9fa155cfcfdd": {
+      "assetMtime": 1721008416000,
+      "metaMtime": 1721790557272
+    },
+    "707a9bf3-b0f8-4147-9711-6c03e9d38c52": {
+      "assetMtime": 1721008416000,
+      "metaMtime": 1721790557272
+    },
+    "46037ab2-7633-49bb-9a1f-54cbbf2ca95a": {
+      "assetMtime": 1721616888000,
+      "metaMtime": 1721790557308
+    },
+    "0b7a5322-3d6c-4ccb-b507-70bc97dd0c2d": {
+      "assetMtime": 1721616888000,
+      "metaMtime": 1721790557308
+    },
+    "49887367-1855-4c0f-86d9-f6e7b3451974": {
+      "assetMtime": 1721617466000,
+      "metaMtime": 1721790557291
+    },
+    "da8ec6bf-a09c-4fd2-941a-d646b870269a": {
+      "assetMtime": 1721617466000,
+      "metaMtime": 1721790557291
+    },
+    "4c64afdb-1b53-420c-9e65-6e28907e1565": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557271
+    },
+    "f8ba16b8-8638-497a-bbb9-4285114a68ca": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557271
+    },
+    "556d2f0f-45bb-471f-862d-0b1eb5a99b93": {
+      "assetMtime": 1721631928000,
+      "metaMtime": 1721790557230
+    },
+    "2769566b-29d2-4379-a668-fdbbb5c58b64": {
+      "assetMtime": 1721631928000,
+      "metaMtime": 1721790557230
+    },
+    "63082735-200f-4ea7-a4d9-6b5d289dc0e4": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557258
+    },
+    "988aa03e-077d-4b6d-adc4-669037abf23e": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557258
+    },
+    "968bdd74-4834-4c42-a13a-3782366d36d7": {
+      "assetMtime": 1720165350000,
+      "metaMtime": 1721790557250
+    },
+    "936def9a-9243-4148-92e1-12ea900e284f": {
+      "assetMtime": 1720165350000,
+      "metaMtime": 1721790557250
+    },
+    "9acb6b87-b6cc-47b5-a4bb-71744e465234": {
+      "assetMtime": 1721616754000,
+      "metaMtime": 1721790557304
+    },
+    "e3772a48-05b7-44b6-8234-ac2672a5e4c2": {
+      "assetMtime": 1721616754000,
+      "metaMtime": 1721790557304
+    },
+    "9fb310a5-9120-4336-8885-4d15492518d4": {
+      "assetMtime": 1721616372000,
+      "metaMtime": 1721790557285
+    },
+    "f501f828-f03a-46ab-8021-8a8a6e09306a": {
+      "assetMtime": 1721616372000,
+      "metaMtime": 1721790557285
+    },
+    "a5a3882b-c8e0-42c5-bc85-a2107fea1713": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557251
+    },
+    "ea3790aa-6825-4884-a46f-7d0cb793dbb1": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557251
+    },
+    "af5649a2-65e2-41c5-813f-4853c71de615": {
+      "assetMtime": 1721617038000,
+      "metaMtime": 1721790557235
+    },
+    "e2cd6855-bdf7-4906-ba6f-b174e2081461": {
+      "assetMtime": 1721617038000,
+      "metaMtime": 1721790557235
+    },
+    "ba59e8b0-b96e-454f-acde-91a2caffc5ad": {
+      "assetMtime": 1715830688000,
+      "metaMtime": 1721790557307
+    },
+    "22acc70c-6f97-4303-b98c-bb64b955e06e": {
+      "assetMtime": 1715830688000,
+      "metaMtime": 1721790557307
+    },
+    "baa47998-07e0-46fc-8c24-78ddec733da6": {
+      "assetMtime": 1716966482000,
+      "metaMtime": 1721790557248
+    },
+    "6f426183-ed7b-4377-8706-9a522bdfa622": {
+      "assetMtime": 1716966482000,
+      "metaMtime": 1721790557248
+    },
+    "c7a612bb-972c-44d2-9047-4e52dbe2b4c8": {
+      "assetMtime": 1720170848000,
+      "metaMtime": 1721790557247
+    },
+    "a5958738-314c-48a6-bb88-4bfc2c51f46f": {
+      "assetMtime": 1720170848000,
+      "metaMtime": 1721790557247
+    },
+    "cb595d3c-ade3-4ede-80f8-ef7370b89486": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557283
+    },
+    "8fff0128-fbe5-4dd9-ad1a-98e65463f0a7": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557283
+    },
+    "d8cdbd49-79d0-431b-b76d-74432e84f3f0": {
+      "assetMtime": 1721617038000,
+      "metaMtime": 1721790557244
+    },
+    "ff416ec2-6e8e-4e6d-b69d-fbef3146bf72": {
+      "assetMtime": 1721617038000,
+      "metaMtime": 1721790557244
+    },
+    "e4593a10-faeb-4c3c-a011-3eda759f62d1": {
+      "assetMtime": 1721617104000,
+      "metaMtime": 1721790557289
+    },
+    "21ad311b-d436-43f1-9ded-fbe061ec5f40": {
+      "assetMtime": 1721617104000,
+      "metaMtime": 1721790557289
+    },
+    "e590eec4-4789-4181-ab17-7db12118c92b": {
+      "assetMtime": 1721629588000,
+      "metaMtime": 1721790557331
+    },
+    "6f9fa132-f8a7-42ef-be8a-2ffcaa22dcf9": {
+      "assetMtime": 1721629588000,
+      "metaMtime": 1721790557331
+    },
+    "ff3f60d7-5dd0-4dbc-b9f6-6f9b29bae769": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557260
+    },
+    "41649c39-1ce4-4eae-bd54-de39fa939026": {
+      "assetMtime": 1721616652000,
+      "metaMtime": 1721790557260
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "e6f44706-1290-4c47-9a06-2dbc243ac8f4",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "rhinoceros_imgborder",
+            "uuid": "49887367-1855-4c0f-86d9-f6e7b3451974",
+            "textureUuid": "da8ec6bf-a09c-4fd2-941a-d646b870269a",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745717_image_7.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 619,
+              "height": 364,
+              "rotatedWidth": 619,
+              "rotatedHeight": 364
+            },
+            "rawWidth": 619,
+            "rawHeight": 364,
+            "width": 625,
+            "height": 370,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/da/da8ec6bf-a09c-4fd2-941a-d646b870269a.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 625,
+            "rotatedHeight": 370
+          },
+          {
+            "name": "rhinoceros_zhankai",
+            "uuid": "e590eec4-4789-4181-ab17-7db12118c92b",
+            "textureUuid": "6f9fa132-f8a7-42ef-be8a-2ffcaa22dcf9",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745720_image_22.png",
+            "trim": {
+              "x": 628,
+              "y": 3,
+              "width": 180,
+              "height": 510,
+              "rotatedWidth": 180,
+              "rotatedHeight": 510
+            },
+            "rawWidth": 180,
+            "rawHeight": 510,
+            "width": 186,
+            "height": 516,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/6f/6f9fa132-f8a7-42ef-be8a-2ffcaa22dcf9.png",
+            "x": 625,
+            "y": 0,
+            "rotatedWidth": 186,
+            "rotatedHeight": 516
+          },
+          {
+            "name": "rhinoceros_agameove",
+            "uuid": "556d2f0f-45bb-471f-862d-0b1eb5a99b93",
+            "textureUuid": "2769566b-29d2-4379-a668-fdbbb5c58b64",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745717_image_9.png",
+            "trim": {
+              "x": 3,
+              "y": 373,
+              "width": 588,
+              "height": 336,
+              "rotatedWidth": 588,
+              "rotatedHeight": 336
+            },
+            "rawWidth": 588,
+            "rawHeight": 336,
+            "width": 594,
+            "height": 342,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/27/2769566b-29d2-4379-a668-fdbbb5c58b64.png",
+            "x": 0,
+            "y": 370,
+            "rotatedWidth": 594,
+            "rotatedHeight": 342
+          },
+          {
+            "name": "rhinoceros_wanjiabg",
+            "uuid": "14187d2a-2ef2-47cc-a572-bf4c4fab8673",
+            "textureUuid": "5c105057-5438-4e04-9aa7-373d2a060d95",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745716_image_1.png",
+            "trim": {
+              "x": 597,
+              "y": 519,
+              "width": 340,
+              "height": 108,
+              "rotatedWidth": 108,
+              "rotatedHeight": 340
+            },
+            "rawWidth": 340,
+            "rawHeight": 108,
+            "width": 346,
+            "height": 114,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/5c/5c105057-5438-4e04-9aa7-373d2a060d95.png",
+            "x": 594,
+            "y": 516,
+            "rotated": true,
+            "rotatedWidth": 114,
+            "rotatedHeight": 346
+          },
+          {
+            "name": "rhinoceros_icostarbg",
+            "uuid": "44e84fd6-f62d-4b1d-8dda-9fa155cfcfdd",
+            "textureUuid": "707a9bf3-b0f8-4147-9711-6c03e9d38c52",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745717_image_5.png",
+            "trim": {
+              "x": 711,
+              "y": 519,
+              "width": 246,
+              "height": 85,
+              "rotatedWidth": 85,
+              "rotatedHeight": 246
+            },
+            "rawWidth": 246,
+            "rawHeight": 85,
+            "width": 252,
+            "height": 91,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/70/707a9bf3-b0f8-4147-9711-6c03e9d38c52.png",
+            "x": 708,
+            "y": 516,
+            "rotated": true,
+            "rotatedWidth": 91,
+            "rotatedHeight": 252
+          },
+          {
+            "name": "rhinoceros_pauseicon",
+            "uuid": "14c0c879-6912-4df6-b6e8-3a38e2e90b7c",
+            "textureUuid": "1a0af009-2b47-450b-a1eb-83c5e08d2ff4",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745717_image_2.png",
+            "trim": {
+              "x": 711,
+              "y": 771,
+              "width": 111,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 90,
+            "width": 117,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/1a/1a0af009-2b47-450b-a1eb-83c5e08d2ff4.png",
+            "x": 708,
+            "y": 768,
+            "rotated": true,
+            "rotatedWidth": 96,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "rhinoceros_tishiImg",
+            "uuid": "ba59e8b0-b96e-454f-acde-91a2caffc5ad",
+            "textureUuid": "22acc70c-6f97-4303-b98c-bb64b955e06e",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745719_image_16.png",
+            "trim": {
+              "x": 3,
+              "y": 865,
+              "width": 148,
+              "height": 148,
+              "rotatedWidth": 148,
+              "rotatedHeight": 148
+            },
+            "rawWidth": 148,
+            "rawHeight": 148,
+            "width": 154,
+            "height": 154,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/22/22acc70c-6f97-4303-b98c-bb64b955e06e.png",
+            "x": 0,
+            "y": 862,
+            "rotatedWidth": 154,
+            "rotatedHeight": 154
+          },
+          {
+            "name": "rhinoceros_tishi2",
+            "uuid": "9acb6b87-b6cc-47b5-a4bb-71744e465234",
+            "textureUuid": "e3772a48-05b7-44b6-8234-ac2672a5e4c2",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745718_image_12.png",
+            "trim": {
+              "x": 3,
+              "y": 715,
+              "width": 120,
+              "height": 144,
+              "rotatedWidth": 120,
+              "rotatedHeight": 144
+            },
+            "rawWidth": 120,
+            "rawHeight": 144,
+            "width": 126,
+            "height": 150,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/e3/e3772a48-05b7-44b6-8234-ac2672a5e4c2.png",
+            "x": 0,
+            "y": 712,
+            "rotatedWidth": 126,
+            "rotatedHeight": 150
+          },
+          {
+            "name": "rhinoceros_touxiangborder",
+            "uuid": "46037ab2-7633-49bb-9a1f-54cbbf2ca95a",
+            "textureUuid": "0b7a5322-3d6c-4ccb-b507-70bc97dd0c2d",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745717_image_6.png",
+            "trim": {
+              "x": 129,
+              "y": 715,
+              "width": 124,
+              "height": 128,
+              "rotatedWidth": 124,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 124,
+            "rawHeight": 128,
+            "width": 130,
+            "height": 134,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/0b/0b7a5322-3d6c-4ccb-b507-70bc97dd0c2d.png",
+            "x": 126,
+            "y": 712,
+            "rotatedWidth": 130,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "rhinoceros_mask",
+            "uuid": "e4593a10-faeb-4c3c-a011-3eda759f62d1",
+            "textureUuid": "21ad311b-d436-43f1-9ded-fbe061ec5f40",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745720_image_21.png",
+            "trim": {
+              "x": 157,
+              "y": 849,
+              "width": 112,
+              "height": 112,
+              "rotatedWidth": 112,
+              "rotatedHeight": 112
+            },
+            "rawWidth": 112,
+            "rawHeight": 112,
+            "width": 118,
+            "height": 118,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/21/21ad311b-d436-43f1-9ded-fbe061ec5f40.png",
+            "x": 154,
+            "y": 846,
+            "rotatedWidth": 118,
+            "rotatedHeight": 118
+          },
+          {
+            "name": "rhinoceros_icon_yinxiao",
+            "uuid": "4c64afdb-1b53-420c-9e65-6e28907e1565",
+            "textureUuid": "f8ba16b8-8638-497a-bbb9-4285114a68ca",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745717_image_8.png",
+            "trim": {
+              "x": 259,
+              "y": 715,
+              "width": 111,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 90,
+            "width": 117,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/f8/f8ba16b8-8638-497a-bbb9-4285114a68ca.png",
+            "x": 256,
+            "y": 712,
+            "rotated": true,
+            "rotatedWidth": 96,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "rhinoceros_amuzhi",
+            "uuid": "2a144ba4-14fe-4f3f-b137-93d734006e19",
+            "textureUuid": "34f11048-9432-4778-bea5-1e351c1b4cb2",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745717_image_4.png",
+            "trim": {
+              "x": 275,
+              "y": 832,
+              "width": 186,
+              "height": 191,
+              "rotatedWidth": 191,
+              "rotatedHeight": 186
+            },
+            "rawWidth": 186,
+            "rawHeight": 191,
+            "width": 192,
+            "height": 197,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/34/34f11048-9432-4778-bea5-1e351c1b4cb2.png",
+            "x": 272,
+            "y": 829,
+            "rotated": true,
+            "rotatedWidth": 197,
+            "rotatedHeight": 192
+          },
+          {
+            "name": "rhinoceros_levelNum",
+            "uuid": "9fb310a5-9120-4336-8885-4d15492518d4",
+            "textureUuid": "f501f828-f03a-46ab-8021-8a8a6e09306a",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745718_image_13.png",
+            "trim": {
+              "x": 157,
+              "y": 967,
+              "width": 89,
+              "height": 36,
+              "rotatedWidth": 89,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 89,
+            "rawHeight": 36,
+            "width": 95,
+            "height": 42,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/f5/f501f828-f03a-46ab-8021-8a8a6e09306a.png",
+            "x": 154,
+            "y": 964,
+            "rotatedWidth": 95,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "rhinoceros_icon_music2",
+            "uuid": "63082735-200f-4ea7-a4d9-6b5d289dc0e4",
+            "textureUuid": "988aa03e-077d-4b6d-adc4-669037abf23e",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745718_image_10.png",
+            "trim": {
+              "x": 355,
+              "y": 715,
+              "width": 111,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 90,
+            "width": 117,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/98/988aa03e-077d-4b6d-adc4-669037abf23e.png",
+            "x": 352,
+            "y": 712,
+            "rotated": true,
+            "rotatedWidth": 96,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "rhinoceros_icon_exit",
+            "uuid": "a5a3882b-c8e0-42c5-bc85-a2107fea1713",
+            "textureUuid": "ea3790aa-6825-4884-a46f-7d0cb793dbb1",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745719_image_14.png",
+            "trim": {
+              "x": 451,
+              "y": 715,
+              "width": 111,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 90,
+            "width": 117,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/ea/ea3790aa-6825-4884-a46f-7d0cb793dbb1.png",
+            "x": 448,
+            "y": 712,
+            "rotated": true,
+            "rotatedWidth": 96,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "rhinoceros_ad",
+            "uuid": "0a9be256-b020-49fc-940f-1efd127bc008",
+            "textureUuid": "1ef2490c-663b-4f11-8493-466914daa554",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745716_image_0.png",
+            "trim": {
+              "x": 547,
+              "y": 715,
+              "width": 65,
+              "height": 32,
+              "rotatedWidth": 32,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 65,
+            "rawHeight": 32,
+            "width": 71,
+            "height": 38,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/1e/1ef2490c-663b-4f11-8493-466914daa554.png",
+            "x": 544,
+            "y": 712,
+            "rotated": true,
+            "rotatedWidth": 38,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "rhinoceros_heart",
+            "uuid": "968bdd74-4834-4c42-a13a-3782366d36d7",
+            "textureUuid": "936def9a-9243-4148-92e1-12ea900e284f",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745718_image_11.png",
+            "trim": {
+              "x": 547,
+              "y": 786,
+              "width": 44,
+              "height": 37,
+              "rotatedWidth": 44,
+              "rotatedHeight": 37
+            },
+            "rawWidth": 44,
+            "rawHeight": 37,
+            "width": 50,
+            "height": 43,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/93/936def9a-9243-4148-92e1-12ea900e284f.png",
+            "x": 544,
+            "y": 783,
+            "rotatedWidth": 50,
+            "rotatedHeight": 43
+          },
+          {
+            "name": "rhinoceros_defeng1",
+            "uuid": "af5649a2-65e2-41c5-813f-4853c71de615",
+            "textureUuid": "e2cd6855-bdf7-4906-ba6f-b174e2081461",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745719_image_15.png",
+            "trim": {
+              "x": 547,
+              "y": 829,
+              "width": 30,
+              "height": 30,
+              "rotatedWidth": 30,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 30,
+            "rawHeight": 30,
+            "width": 36,
+            "height": 36,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/e2/e2cd6855-bdf7-4906-ba6f-b174e2081461.png",
+            "x": 544,
+            "y": 826,
+            "rotatedWidth": 36,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "rhinoceros_err",
+            "uuid": "265773da-ae05-4c92-9c8a-bb53f58521b9",
+            "textureUuid": "b16eae65-4a88-42d1-95ee-3d3ba7dbc05a",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745717_image_3.png",
+            "trim": {
+              "x": 472,
+              "y": 832,
+              "width": 62,
+              "height": 62,
+              "rotatedWidth": 62,
+              "rotatedHeight": 62
+            },
+            "rawWidth": 62,
+            "rawHeight": 62,
+            "width": 68,
+            "height": 68,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/b1/b16eae65-4a88-42d1-95ee-3d3ba7dbc05a.png",
+            "x": 469,
+            "y": 829,
+            "rotatedWidth": 68,
+            "rotatedHeight": 68
+          },
+          {
+            "name": "rhinoceros_iocn_yingyue",
+            "uuid": "cb595d3c-ade3-4ede-80f8-ef7370b89486",
+            "textureUuid": "8fff0128-fbe5-4dd9-ad1a-98e65463f0a7",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745719_image_19.png",
+            "trim": {
+              "x": 540,
+              "y": 865,
+              "width": 111,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 90,
+            "width": 117,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/8f/8fff0128-fbe5-4dd9-ad1a-98e65463f0a7.png",
+            "x": 537,
+            "y": 862,
+            "rotated": true,
+            "rotatedWidth": 96,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "rhinoceros_find",
+            "uuid": "baa47998-07e0-46fc-8c24-78ddec733da6",
+            "textureUuid": "6f426183-ed7b-4377-8706-9a522bdfa622",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745719_image_17.png",
+            "trim": {
+              "x": 472,
+              "y": 900,
+              "width": 54,
+              "height": 55,
+              "rotatedWidth": 55,
+              "rotatedHeight": 54
+            },
+            "rawWidth": 54,
+            "rawHeight": 55,
+            "width": 60,
+            "height": 61,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/6f/6f426183-ed7b-4377-8706-9a522bdfa622.png",
+            "x": 469,
+            "y": 897,
+            "rotated": true,
+            "rotatedWidth": 61,
+            "rotatedHeight": 60
+          },
+          {
+            "name": "rhinoceros_defeng2",
+            "uuid": "d8cdbd49-79d0-431b-b76d-74432e84f3f0",
+            "textureUuid": "ff416ec2-6e8e-4e6d-b69d-fbef3146bf72",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745720_image_20.png",
+            "trim": {
+              "x": 472,
+              "y": 960,
+              "width": 30,
+              "height": 30,
+              "rotatedWidth": 30,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 30,
+            "rawHeight": 30,
+            "width": 36,
+            "height": 36,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/ff/ff416ec2-6e8e-4e6d-b69d-fbef3146bf72.png",
+            "x": 469,
+            "y": 957,
+            "rotatedWidth": 36,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "rhinoceros_icon_sound2",
+            "uuid": "ff3f60d7-5dd0-4dbc-b9f6-6f9b29bae769",
+            "textureUuid": "41649c39-1ce4-4eae-bd54-de39fa939026",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745720_image_23.png",
+            "trim": {
+              "x": 636,
+              "y": 888,
+              "width": 111,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 90,
+            "width": 117,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/41/41649c39-1ce4-4eae-bd54-de39fa939026.png",
+            "x": 633,
+            "y": 885,
+            "rotated": true,
+            "rotatedWidth": 96,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "rhinoceros_exit",
+            "uuid": "c7a612bb-972c-44d2-9047-4e52dbe2b4c8",
+            "textureUuid": "a5958738-314c-48a6-bb88-4bfc2c51f46f",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790745719_image_18.png",
+            "trim": {
+              "x": 732,
+              "y": 888,
+              "width": 87,
+              "height": 85,
+              "rotatedWidth": 85,
+              "rotatedHeight": 87
+            },
+            "rawWidth": 87,
+            "rawHeight": 85,
+            "width": 93,
+            "height": 91,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/a5/a5958738-314c-48a6-bb88-4bfc2c51f46f.png",
+            "x": 729,
+            "y": 885,
+            "rotated": true,
+            "rotatedWidth": 91,
+            "rotatedHeight": 93
+          }
+        ],
+        "width": 820,
+        "height": 1021,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/rhinoceros/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/rhinoceros/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

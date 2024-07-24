@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "fight_9",
+    "name": "strong_9",
     "texture": "1906b839-21ef-4c2a-aac3-e62155546d64",
     "atlas": "",
     "rect": [
       0,
       0,
-      1232,
-      928
+      1456,
+      832
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      1232,
-      928
+      1456,
+      832
     ],
     "capInsets": [
       0,

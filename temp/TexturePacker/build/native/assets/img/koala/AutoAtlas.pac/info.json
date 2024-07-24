@@ -1,0 +1,333 @@
+{
+  "projectPath": "/Users/aw/Desktop/find8",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "511c23ea-dcd9-4eaf-8318-0c0677e99c46": {
+      "assetMtime": 1715846996000,
+      "metaMtime": 1721790557089
+    },
+    "2a8d0410-76ca-4ae3-b5d8-89b8edea6036": {
+      "assetMtime": 1721613516000,
+      "metaMtime": 1721790557119
+    },
+    "ba939f72-5f39-435f-82f5-4dc0b61ff40e": {
+      "assetMtime": 1721613516000,
+      "metaMtime": 1721790557119
+    },
+    "3a0e35b3-58a2-4a2e-88ad-b7e8b4f1cf82": {
+      "assetMtime": 1721031072000,
+      "metaMtime": 1721790557129
+    },
+    "78371f18-0eff-4ddd-8422-8360e4dcd82f": {
+      "assetMtime": 1721031072000,
+      "metaMtime": 1721790557129
+    },
+    "5d700f15-87e4-487c-a7bf-12b63d8b195b": {
+      "assetMtime": 1721613462000,
+      "metaMtime": 1721790557114
+    },
+    "b7045a19-d91a-4685-9cbc-3d10de892280": {
+      "assetMtime": 1721613462000,
+      "metaMtime": 1721790557114
+    },
+    "84d22ceb-e678-4beb-b7a6-a717ca370fef": {
+      "assetMtime": 1721613740000,
+      "metaMtime": 1721790557113
+    },
+    "493ea7a2-0f7d-4e5d-85a8-f4ed8c92f0a8": {
+      "assetMtime": 1721613740000,
+      "metaMtime": 1721790557113
+    },
+    "86242746-f9f9-49d8-9b41-657e60c63bba": {
+      "assetMtime": 1721613710000,
+      "metaMtime": 1721790557106
+    },
+    "835838c0-8008-4646-a565-8889ed49c324": {
+      "assetMtime": 1721613710000,
+      "metaMtime": 1721790557106
+    },
+    "9666d778-6e62-468f-85e8-38b06d99d162": {
+      "assetMtime": 1721613504000,
+      "metaMtime": 1721790557133
+    },
+    "c7416ed4-8704-47d4-b6ae-673233a5cfdf": {
+      "assetMtime": 1721613504000,
+      "metaMtime": 1721790557133
+    },
+    "c65cc1c7-feeb-4e9f-8dae-5a4549d1459b": {
+      "assetMtime": 1720774424000,
+      "metaMtime": 1721790557105
+    },
+    "71d5b7c3-159c-4359-be2e-30707516cb8c": {
+      "assetMtime": 1720774424000,
+      "metaMtime": 1721790557105
+    },
+    "d0046c5f-5e5b-4e0d-82c4-16690be7680f": {
+      "assetMtime": 1721614164000,
+      "metaMtime": 1721790557154
+    },
+    "80999f6f-34c8-4e91-9d77-7778f2e2b772": {
+      "assetMtime": 1721614164000,
+      "metaMtime": 1721790557154
+    },
+    "ff8044e1-3f4f-491c-893b-99f4f4eb570d": {
+      "assetMtime": 1721613558000,
+      "metaMtime": 1721790557122
+    },
+    "20b5a922-629f-44f8-bc72-bf2d132bdf01": {
+      "assetMtime": 1721613558000,
+      "metaMtime": 1721790557122
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "511c23ea-dcd9-4eaf-8318-0c0677e99c46",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "koala_border",
+            "uuid": "84d22ceb-e678-4beb-b7a6-a717ca370fef",
+            "textureUuid": "493ea7a2-0f7d-4e5d-85a8-f4ed8c92f0a8",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790746276_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 619,
+              "height": 364,
+              "rotatedWidth": 619,
+              "rotatedHeight": 364
+            },
+            "rawWidth": 619,
+            "rawHeight": 364,
+            "width": 625,
+            "height": 370,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/49/493ea7a2-0f7d-4e5d-85a8-f4ed8c92f0a8.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 625,
+            "rotatedHeight": 370
+          },
+          {
+            "name": "koala_hallmask",
+            "uuid": "c65cc1c7-feeb-4e9f-8dae-5a4549d1459b",
+            "textureUuid": "71d5b7c3-159c-4359-be2e-30707516cb8c",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790746277_image_6.png",
+            "trim": {
+              "x": 628,
+              "y": 3,
+              "width": 500,
+              "height": 376,
+              "rotatedWidth": 376,
+              "rotatedHeight": 500
+            },
+            "rawWidth": 500,
+            "rawHeight": 376,
+            "width": 506,
+            "height": 382,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/71/71d5b7c3-159c-4359-be2e-30707516cb8c.png",
+            "x": 625,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 382,
+            "rotatedHeight": 506
+          },
+          {
+            "name": "koala_startbtn",
+            "uuid": "9666d778-6e62-468f-85e8-38b06d99d162",
+            "textureUuid": "c7416ed4-8704-47d4-b6ae-673233a5cfdf",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790746277_image_5.png",
+            "trim": {
+              "x": 3,
+              "y": 373,
+              "width": 320,
+              "height": 100,
+              "rotatedWidth": 320,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 320,
+            "rawHeight": 100,
+            "width": 326,
+            "height": 106,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/c7/c7416ed4-8704-47d4-b6ae-673233a5cfdf.png",
+            "x": 0,
+            "y": 370,
+            "rotatedWidth": 326,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "koala_wanjianamebg",
+            "uuid": "3a0e35b3-58a2-4a2e-88ad-b7e8b4f1cf82",
+            "textureUuid": "78371f18-0eff-4ddd-8422-8360e4dcd82f",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790746276_image_1.png",
+            "trim": {
+              "x": 329,
+              "y": 373,
+              "width": 270,
+              "height": 91,
+              "rotatedWidth": 270,
+              "rotatedHeight": 91
+            },
+            "rawWidth": 270,
+            "rawHeight": 91,
+            "width": 276,
+            "height": 97,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/78/78371f18-0eff-4ddd-8422-8360e4dcd82f.png",
+            "x": 326,
+            "y": 370,
+            "rotatedWidth": 276,
+            "rotatedHeight": 97
+          },
+          {
+            "name": "koala_jiantou",
+            "uuid": "5d700f15-87e4-487c-a7bf-12b63d8b195b",
+            "textureUuid": "b7045a19-d91a-4685-9cbc-3d10de892280",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790746276_image_2.png",
+            "trim": {
+              "x": 329,
+              "y": 470,
+              "width": 111,
+              "height": 111,
+              "rotatedWidth": 111,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 111,
+            "width": 117,
+            "height": 117,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/b7/b7045a19-d91a-4685-9cbc-3d10de892280.png",
+            "x": 326,
+            "y": 467,
+            "rotatedWidth": 117,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "koala_radiant_setting",
+            "uuid": "ff8044e1-3f4f-491c-893b-99f4f4eb570d",
+            "textureUuid": "20b5a922-629f-44f8-bc72-bf2d132bdf01",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790746277_image_8.png",
+            "trim": {
+              "x": 446,
+              "y": 470,
+              "width": 111,
+              "height": 90,
+              "rotatedWidth": 111,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 111,
+            "rawHeight": 90,
+            "width": 117,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/20/20b5a922-629f-44f8-bc72-bf2d132bdf01.png",
+            "x": 443,
+            "y": 467,
+            "rotatedWidth": 117,
+            "rotatedHeight": 96
+          },
+          {
+            "name": "koala_level",
+            "uuid": "2a8d0410-76ca-4ae3-b5d8-89b8edea6036",
+            "textureUuid": "ba939f72-5f39-435f-82f5-4dc0b61ff40e",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790746276_image_0.png",
+            "trim": {
+              "x": 563,
+              "y": 470,
+              "width": 89,
+              "height": 36,
+              "rotatedWidth": 36,
+              "rotatedHeight": 89
+            },
+            "rawWidth": 89,
+            "rawHeight": 36,
+            "width": 95,
+            "height": 42,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/ba/ba939f72-5f39-435f-82f5-4dc0b61ff40e.png",
+            "x": 560,
+            "y": 467,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 95
+          },
+          {
+            "name": "koala_iconsuo",
+            "uuid": "86242746-f9f9-49d8-9b41-657e60c63bba",
+            "textureUuid": "835838c0-8008-4646-a565-8889ed49c324",
+            "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790746276_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 479,
+              "width": 61,
+              "height": 99,
+              "rotatedWidth": 99,
+              "rotatedHeight": 61
+            },
+            "rawWidth": 61,
+            "rawHeight": 99,
+            "width": 67,
+            "height": 105,
+            "originalPath": "/Users/aw/Desktop/find8/library/imports/83/835838c0-8008-4646-a565-8889ed49c324.png",
+            "x": 0,
+            "y": 476,
+            "rotated": true,
+            "rotatedWidth": 105,
+            "rotatedHeight": 67
+          }
+        ],
+        "width": 1007,
+        "height": 584,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/koala/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find8/temp/TexturePacker/build/native/assets/img/koala/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": [
+      {
+        "name": "koala_hallbg",
+        "uuid": "d0046c5f-5e5b-4e0d-82c4-16690be7680f",
+        "textureUuid": "80999f6f-34c8-4e91-9d77-7778f2e2b772",
+        "path": "/Users/aw/Desktop/find8/temp/trimImages/spritesheet_js_1721790746277_image_7.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 720,
+          "height": 1280,
+          "rotatedWidth": 720,
+          "rotatedHeight": 1280
+        },
+        "rawWidth": 720,
+        "rawHeight": 1280,
+        "width": 726,
+        "height": 1286,
+        "originalPath": "/Users/aw/Desktop/find8/library/imports/80/80999f6f-34c8-4e91-9d77-7778f2e2b772.png"
+      }
+    ]
+  }
+}

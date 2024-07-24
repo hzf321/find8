@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "mason_icon_music2",
+    "name": "rhinoceros_icon_music2",
     "texture": "988aa03e-077d-4b6d-adc4-669037abf23e",
     "atlas": "",
     "rect": [
       0,
       0,
-      86,
-      86
+      111,
+      90
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      86,
-      86
+      111,
+      90
     ],
     "capInsets": [
       0,

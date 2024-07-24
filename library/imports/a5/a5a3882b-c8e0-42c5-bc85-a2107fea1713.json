@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "mason_icon_exit",
+    "name": "rhinoceros_icon_exit",
     "texture": "ea3790aa-6825-4884-a46f-7d0cb793dbb1",
     "atlas": "",
     "rect": [
       0,
       0,
-      86,
-      86
+      111,
+      90
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      86,
-      86
+      111,
+      90
     ],
     "capInsets": [
       0,

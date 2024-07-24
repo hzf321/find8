@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "james_ok",
+    "name": "octopus_ok",
     "texture": "4b13cd00-3f89-4a89-a3c6-8c09f73104f2",
     "atlas": "",
     "rect": [
       0,
       0,
-      281,
-      90
+      260,
+      111
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      281,
-      90
+      260,
+      111
     ],
     "capInsets": [
       0,

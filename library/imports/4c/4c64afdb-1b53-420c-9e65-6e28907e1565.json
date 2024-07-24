@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "mason_icon_yinxiao",
+    "name": "rhinoceros_icon_yinxiao",
     "texture": "f8ba16b8-8638-497a-bbb9-4285114a68ca",
     "atlas": "",
     "rect": [
       0,
       0,
-      86,
-      86
+      111,
+      90
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      86,
-      86
+      111,
+      90
     ],
     "capInsets": [
       0,

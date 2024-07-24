@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "william_border",
+    "name": "koala_border",
     "texture": "493ea7a2-0f7d-4e5d-85a8-f4ed8c92f0a8",
     "atlas": "",
     "rect": [
       0,
       0,
-      526,
-      401
+      619,
+      364
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      526,
-      401
+      619,
+      364
     ],
     "capInsets": [
       0,

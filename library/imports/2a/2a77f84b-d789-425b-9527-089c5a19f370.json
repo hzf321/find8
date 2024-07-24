@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "tiger_btn",
+    "name": "raccoon_btn",
     "texture": "68d83935-6794-4fe7-bf59-df2bb182878f",
     "atlas": "",
     "rect": [
       0,
       0,
-      281,
-      90
+      260,
+      111
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      281,
-      90
+      260,
+      111
     ],
     "capInsets": [
       0,

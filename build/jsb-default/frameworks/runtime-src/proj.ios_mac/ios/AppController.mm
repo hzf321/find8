@@ -30,6 +30,8 @@
 #import "RootViewController.h"
 #import "SDKWrapper.h"
 #import "platform/ios/CCEAGLView-ios.h"
+#import "BeautifulFindAdMgr.h"
+#import <AppTrackingTransparency/AppTrackingTransparency.h>
 
 using namespace cocos2d;
 
@@ -80,6 +82,8 @@ Application* app = nullptr;
 
     
     
+    [[BeautifulFindAdMgr shareInstance] initsdk: _viewController];
+    
     //run the cocos2d-x game scene
     app->start();
     
@@ -104,7 +108,11 @@ Application* app = nullptr;
     app->onResume();
     [[SDKWrapper getInstance] applicationDidBecomeActive:application];
     
-  }
+    if (@available(iOS 14.0, *)) {
+            [ATTrackingManager requestTrackingAuthorizationWithCompletionHandler:^(ATTrackingManagerAuthorizationStatus status) {
+
+            }];
+        }}
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
     /*

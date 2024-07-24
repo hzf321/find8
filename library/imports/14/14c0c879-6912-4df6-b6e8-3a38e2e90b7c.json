@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "mason_pauseicon",
+    "name": "rhinoceros_pauseicon",
     "texture": "1a0af009-2b47-450b-a1eb-83c5e08d2ff4",
     "atlas": "",
     "rect": [
       0,
       0,
-      86,
-      86
+      111,
+      90
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      86,
-      86
+      111,
+      90
     ],
     "capInsets": [
       0,

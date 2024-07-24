@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "707a9bf3-b0f8-4147-9711-6c03e9d38c52",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 246,
+  "height": 85,
+  "platformSettings": {},
+  "subMetas": {
+    "rhinoceros_icostarbg": {
+      "ver": "1.0.6",
+      "uuid": "44e84fd6-f62d-4b1d-8dda-9fa155cfcfdd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "707a9bf3-b0f8-4147-9711-6c03e9d38c52",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 246,
+      "height": 85,
+      "rawWidth": 246,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

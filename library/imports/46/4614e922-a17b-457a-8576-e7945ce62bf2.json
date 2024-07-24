@@ -1,188 +1,188 @@
 {
   "__type__": "cc.JsonAsset",
-  "_name": "moon20",
+  "_name": "family20",
   "_objFlags": 0,
   "_native": "",
   "json": {
     "path": [
       {
         "centerPos": {
-          "x": -193,
-          "y": 171
+          "x": -285,
+          "y": 214
         },
         "startPos": {
-          "x": -287,
-          "y": 233
+          "x": -344,
+          "y": 279
         },
         "endPos": {
-          "x": -99,
-          "y": 108
+          "x": -225,
+          "y": 150
         },
         "blockSize": {
-          "wid": 188,
-          "hei": 125
-        }
-      },
-      {
-        "centerPos": {
-          "x": -162,
-          "y": 0
-        },
-        "startPos": {
-          "x": -235,
-          "y": 67
-        },
-        "endPos": {
-          "x": -89,
-          "y": -68
-        },
-        "blockSize": {
-          "wid": 146,
-          "hei": 135
-        }
-      },
-      {
-        "centerPos": {
-          "x": -416,
-          "y": 89
-        },
-        "startPos": {
-          "x": -479,
-          "y": 142
-        },
-        "endPos": {
-          "x": -353,
-          "y": 35
-        },
-        "blockSize": {
-          "wid": 126,
-          "hei": 107
-        }
-      },
-      {
-        "centerPos": {
-          "x": -548,
-          "y": -69
-        },
-        "startPos": {
-          "x": -615,
-          "y": 6
-        },
-        "endPos": {
-          "x": -481,
-          "y": -145
-        },
-        "blockSize": {
-          "wid": 134,
-          "hei": 151
-        }
-      },
-      {
-        "centerPos": {
-          "x": 330,
-          "y": 159
-        },
-        "startPos": {
-          "x": 249,
-          "y": 203
-        },
-        "endPos": {
-          "x": 412,
-          "y": 114
-        },
-        "blockSize": {
-          "wid": 163,
-          "hei": 89
-        }
-      },
-      {
-        "centerPos": {
-          "x": 194,
-          "y": 4
-        },
-        "startPos": {
-          "x": 112,
-          "y": 65
-        },
-        "endPos": {
-          "x": 276,
-          "y": -58
-        },
-        "blockSize": {
-          "wid": 164,
-          "hei": 123
-        }
-      },
-      {
-        "centerPos": {
-          "x": 251,
-          "y": -192
-        },
-        "startPos": {
-          "x": 170,
-          "y": -129
-        },
-        "endPos": {
-          "x": 332,
-          "y": -256
-        },
-        "blockSize": {
-          "wid": 162,
-          "hei": 127
-        }
-      },
-      {
-        "centerPos": {
-          "x": 473,
-          "y": -152
-        },
-        "startPos": {
-          "x": 405,
-          "y": -65
-        },
-        "endPos": {
-          "x": 541,
-          "y": -240
-        },
-        "blockSize": {
-          "wid": 136,
-          "hei": 175
-        }
-      },
-      {
-        "centerPos": {
-          "x": 313,
-          "y": -380
-        },
-        "startPos": {
-          "x": 173,
-          "y": -316
-        },
-        "endPos": {
-          "x": 453,
-          "y": -444
-        },
-        "blockSize": {
-          "wid": 280,
+          "wid": 119,
           "hei": 128
         }
       },
       {
         "centerPos": {
-          "x": 565,
-          "y": 128
-        },
-        "startPos": {
-          "x": 614,
+          "x": -174,
           "y": 41
         },
+        "startPos": {
+          "x": -264,
+          "y": 89
+        },
         "endPos": {
-          "x": 516,
-          "y": 215
+          "x": -84,
+          "y": -8
         },
         "blockSize": {
-          "wid": 98,
-          "hei": 174
+          "wid": 179,
+          "hei": 97
+        }
+      },
+      {
+        "centerPos": {
+          "x": -10,
+          "y": -176
+        },
+        "startPos": {
+          "x": -63,
+          "y": -108
+        },
+        "endPos": {
+          "x": 42,
+          "y": -245
+        },
+        "blockSize": {
+          "wid": 105,
+          "hei": 136
+        }
+      },
+      {
+        "centerPos": {
+          "x": 46,
+          "y": 0
+        },
+        "startPos": {
+          "x": -10,
+          "y": 78
+        },
+        "endPos": {
+          "x": 103,
+          "y": -79
+        },
+        "blockSize": {
+          "wid": 113,
+          "hei": 156
+        }
+      },
+      {
+        "centerPos": {
+          "x": 234,
+          "y": -164
+        },
+        "startPos": {
+          "x": 125,
+          "y": -34
+        },
+        "endPos": {
+          "x": 343,
+          "y": -293
+        },
+        "blockSize": {
+          "wid": 218,
+          "hei": 259
+        }
+      },
+      {
+        "centerPos": {
+          "x": 327,
+          "y": 329
+        },
+        "startPos": {
+          "x": 417,
+          "y": 414
+        },
+        "endPos": {
+          "x": 236,
+          "y": 244
+        },
+        "blockSize": {
+          "wid": 181,
+          "hei": 169
+        }
+      },
+      {
+        "centerPos": {
+          "x": 639,
+          "y": 225
+        },
+        "startPos": {
+          "x": 718,
+          "y": 335
+        },
+        "endPos": {
+          "x": 560,
+          "y": 115
+        },
+        "blockSize": {
+          "wid": 158,
+          "hei": 220
+        }
+      },
+      {
+        "centerPos": {
+          "x": 608,
+          "y": -302
+        },
+        "startPos": {
+          "x": 718,
+          "y": -403
+        },
+        "endPos": {
+          "x": 498,
+          "y": -202
+        },
+        "blockSize": {
+          "wid": 220,
+          "hei": 201
+        }
+      },
+      {
+        "centerPos": {
+          "x": -283,
+          "y": -221
+        },
+        "startPos": {
+          "x": -405,
+          "y": -161
+        },
+        "endPos": {
+          "x": -161,
+          "y": -282
+        },
+        "blockSize": {
+          "wid": 244,
+          "hei": 121
+        }
+      },
+      {
+        "centerPos": {
+          "x": -614,
+          "y": -250
+        },
+        "startPos": {
+          "x": -727,
+          "y": -352
+        },
+        "endPos": {
+          "x": -500,
+          "y": -149
+        },
+        "blockSize": {
+          "wid": 226,
+          "hei": 203
         }
       }
     ]

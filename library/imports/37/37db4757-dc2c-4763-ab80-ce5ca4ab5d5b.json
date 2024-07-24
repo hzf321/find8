@@ -1,14 +1,14 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "olivia_victory2",
+    "name": "panda_victory2",
     "texture": "497a753a-2bd4-420e-9a42-699ba16f7585",
     "atlas": "",
     "rect": [
       0,
       0,
       583,
-      654
+      587
     ],
     "offset": [
       0,
@@ -16,7 +16,7 @@
     ],
     "originalSize": [
       583,
-      654
+      587
     ],
     "capInsets": [
       0,
