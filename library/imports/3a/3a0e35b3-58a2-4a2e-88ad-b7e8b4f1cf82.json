@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "william_wanjianamebg",
+    "texture": "78371f18-0eff-4ddd-8422-8360e4dcd82f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      270,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      270,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

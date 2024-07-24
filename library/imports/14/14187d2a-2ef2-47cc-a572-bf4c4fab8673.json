@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mason_wanjiabg",
+    "texture": "5c105057-5438-4e04-9aa7-373d2a060d95",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      310,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      310,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

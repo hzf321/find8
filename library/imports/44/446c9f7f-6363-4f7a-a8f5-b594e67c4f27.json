@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "emma_btnCancel",
+    "texture": "c2496d18-26bd-431e-aa47-de70be335a60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      281,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      281,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

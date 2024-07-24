@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "william_level",
+    "texture": "ba939f72-5f39-435f-82f5-4dc0b61ff40e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

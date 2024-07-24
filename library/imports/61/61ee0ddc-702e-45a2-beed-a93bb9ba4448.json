@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "emma_btnOk",
+    "texture": "b6ad21cb-603f-4742-9020-1a9d0abaa5f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      281,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      281,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

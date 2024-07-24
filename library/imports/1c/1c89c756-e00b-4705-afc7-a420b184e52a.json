@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liam_title",
+    "texture": "92703a1e-7700-463f-8442-f5c363c95110",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      286,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      286,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

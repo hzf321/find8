@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "olivia_falied",
+    "texture": "b7da26fe-9456-472e-b897-04454785c2de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      583,
+      654
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      583,
+      654
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

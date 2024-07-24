@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mason_imgborder",
+    "texture": "da8ec6bf-a09c-4fd2-941a-d646b870269a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      486,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      486,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

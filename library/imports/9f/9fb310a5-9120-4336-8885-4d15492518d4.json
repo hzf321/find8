@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mason_levelNum",
+    "texture": "f501f828-f03a-46ab-8021-8a8a6e09306a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

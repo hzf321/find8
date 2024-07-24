@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "olivia_homebtn",
+    "texture": "74ab4655-63ed-4ab1-8537-4cb5f13a6127",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      344,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      344,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,677 @@
+{
+  "projectPath": "/Users/aw/Desktop/find7",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "e6f44706-1290-4c47-9a06-2dbc243ac8f4": {
+      "assetMtime": 1715846998000,
+      "metaMtime": 1721207739842
+    },
+    "14187d2a-2ef2-47cc-a572-bf4c4fab8673": {
+      "assetMtime": 1721008516000,
+      "metaMtime": 1721207739912
+    },
+    "5c105057-5438-4e04-9aa7-373d2a060d95": {
+      "assetMtime": 1721008516000,
+      "metaMtime": 1721207739912
+    },
+    "14c0c879-6912-4df6-b6e8-3a38e2e90b7c": {
+      "assetMtime": 1721008328000,
+      "metaMtime": 1721207739896
+    },
+    "1a0af009-2b47-450b-a1eb-83c5e08d2ff4": {
+      "assetMtime": 1721008328000,
+      "metaMtime": 1721207739896
+    },
+    "265773da-ae05-4c92-9c8a-bb53f58521b9": {
+      "assetMtime": 1721011266000,
+      "metaMtime": 1721207739864
+    },
+    "b16eae65-4a88-42d1-95ee-3d3ba7dbc05a": {
+      "assetMtime": 1721011266000,
+      "metaMtime": 1721207739864
+    },
+    "44e84fd6-f62d-4b1d-8dda-9fa155cfcfdd": {
+      "assetMtime": 1721008416000,
+      "metaMtime": 1721207739885
+    },
+    "707a9bf3-b0f8-4147-9711-6c03e9d38c52": {
+      "assetMtime": 1721008416000,
+      "metaMtime": 1721207739885
+    },
+    "46037ab2-7633-49bb-9a1f-54cbbf2ca95a": {
+      "assetMtime": 1721008560000,
+      "metaMtime": 1721207739915
+    },
+    "0b7a5322-3d6c-4ccb-b507-70bc97dd0c2d": {
+      "assetMtime": 1721008560000,
+      "metaMtime": 1721207739915
+    },
+    "49887367-1855-4c0f-86d9-f6e7b3451974": {
+      "assetMtime": 1721009346000,
+      "metaMtime": 1721207739898
+    },
+    "da8ec6bf-a09c-4fd2-941a-d646b870269a": {
+      "assetMtime": 1721009346000,
+      "metaMtime": 1721207739898
+    },
+    "4c64afdb-1b53-420c-9e65-6e28907e1565": {
+      "assetMtime": 1721033034000,
+      "metaMtime": 1721207739881
+    },
+    "f8ba16b8-8638-497a-bbb9-4285114a68ca": {
+      "assetMtime": 1721033034000,
+      "metaMtime": 1721207739881
+    },
+    "50f9349a-fa03-4711-a557-46ad8c9af0f3": {
+      "assetMtime": 1721032950000,
+      "metaMtime": 1721207739911
+    },
+    "baceef4e-fe1f-43b2-8b4c-eed9b1b5a98d": {
+      "assetMtime": 1721032950000,
+      "metaMtime": 1721207739911
+    },
+    "63082735-200f-4ea7-a4d9-6b5d289dc0e4": {
+      "assetMtime": 1721035178000,
+      "metaMtime": 1721207739878
+    },
+    "988aa03e-077d-4b6d-adc4-669037abf23e": {
+      "assetMtime": 1721035178000,
+      "metaMtime": 1721207739878
+    },
+    "968bdd74-4834-4c42-a13a-3782366d36d7": {
+      "assetMtime": 1720165350000,
+      "metaMtime": 1721207739870
+    },
+    "936def9a-9243-4148-92e1-12ea900e284f": {
+      "assetMtime": 1720165350000,
+      "metaMtime": 1721207739870
+    },
+    "9acb6b87-b6cc-47b5-a4bb-71744e465234": {
+      "assetMtime": 1721033190000,
+      "metaMtime": 1721207739913
+    },
+    "e3772a48-05b7-44b6-8234-ac2672a5e4c2": {
+      "assetMtime": 1721033190000,
+      "metaMtime": 1721207739913
+    },
+    "9fb310a5-9120-4336-8885-4d15492518d4": {
+      "assetMtime": 1721032588000,
+      "metaMtime": 1721207739895
+    },
+    "f501f828-f03a-46ab-8021-8a8a6e09306a": {
+      "assetMtime": 1721032588000,
+      "metaMtime": 1721207739895
+    },
+    "a5a3882b-c8e0-42c5-bc85-a2107fea1713": {
+      "assetMtime": 1721033034000,
+      "metaMtime": 1721207739871
+    },
+    "ea3790aa-6825-4884-a46f-7d0cb793dbb1": {
+      "assetMtime": 1721033034000,
+      "metaMtime": 1721207739871
+    },
+    "af5649a2-65e2-41c5-813f-4853c71de615": {
+      "assetMtime": 1721008896000,
+      "metaMtime": 1721207739856
+    },
+    "e2cd6855-bdf7-4906-ba6f-b174e2081461": {
+      "assetMtime": 1721008896000,
+      "metaMtime": 1721207739856
+    },
+    "ba59e8b0-b96e-454f-acde-91a2caffc5ad": {
+      "assetMtime": 1715830688000,
+      "metaMtime": 1721207739914
+    },
+    "22acc70c-6f97-4303-b98c-bb64b955e06e": {
+      "assetMtime": 1715830688000,
+      "metaMtime": 1721207739914
+    },
+    "baa47998-07e0-46fc-8c24-78ddec733da6": {
+      "assetMtime": 1716966482000,
+      "metaMtime": 1721207739869
+    },
+    "6f426183-ed7b-4377-8706-9a522bdfa622": {
+      "assetMtime": 1716966482000,
+      "metaMtime": 1721207739869
+    },
+    "c7a612bb-972c-44d2-9047-4e52dbe2b4c8": {
+      "assetMtime": 1720170848000,
+      "metaMtime": 1721207739867
+    },
+    "a5958738-314c-48a6-bb88-4bfc2c51f46f": {
+      "assetMtime": 1720170848000,
+      "metaMtime": 1721207739867
+    },
+    "cb595d3c-ade3-4ede-80f8-ef7370b89486": {
+      "assetMtime": 1721033034000,
+      "metaMtime": 1721207739897
+    },
+    "8fff0128-fbe5-4dd9-ad1a-98e65463f0a7": {
+      "assetMtime": 1721033034000,
+      "metaMtime": 1721207739897
+    },
+    "d8cdbd49-79d0-431b-b76d-74432e84f3f0": {
+      "assetMtime": 1721008896000,
+      "metaMtime": 1721207739855
+    },
+    "ff416ec2-6e8e-4e6d-b69d-fbef3146bf72": {
+      "assetMtime": 1721008896000,
+      "metaMtime": 1721207739855
+    },
+    "ff3f60d7-5dd0-4dbc-b9f6-6f9b29bae769": {
+      "assetMtime": 1721035178000,
+      "metaMtime": 1721207739883
+    },
+    "41649c39-1ce4-4eae-bd54-de39fa939026": {
+      "assetMtime": 1721035178000,
+      "metaMtime": 1721207739883
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "e6f44706-1290-4c47-9a06-2dbc243ac8f4",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "mason_imgborder",
+            "uuid": "49887367-1855-4c0f-86d9-f6e7b3451974",
+            "textureUuid": "da8ec6bf-a09c-4fd2-941a-d646b870269a",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897186_image_5.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 486,
+              "height": 720,
+              "rotatedWidth": 486,
+              "rotatedHeight": 720
+            },
+            "rawWidth": 486,
+            "rawHeight": 720,
+            "width": 492,
+            "height": 726,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/da/da8ec6bf-a09c-4fd2-941a-d646b870269a.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 492,
+            "rotatedHeight": 726
+          },
+          {
+            "name": "mason_settingbg",
+            "uuid": "50f9349a-fa03-4711-a557-46ad8c9af0f3",
+            "textureUuid": "baceef4e-fe1f-43b2-8b4c-eed9b1b5a98d",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897186_image_7.png",
+            "trim": {
+              "x": 495,
+              "y": 3,
+              "width": 110,
+              "height": 421,
+              "rotatedWidth": 110,
+              "rotatedHeight": 421
+            },
+            "rawWidth": 110,
+            "rawHeight": 421,
+            "width": 116,
+            "height": 427,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/ba/baceef4e-fe1f-43b2-8b4c-eed9b1b5a98d.png",
+            "x": 492,
+            "y": 0,
+            "rotatedWidth": 116,
+            "rotatedHeight": 427
+          },
+          {
+            "name": "mason_wanjiabg",
+            "uuid": "14187d2a-2ef2-47cc-a572-bf4c4fab8673",
+            "textureUuid": "5c105057-5438-4e04-9aa7-373d2a060d95",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897185_image_0.png",
+            "trim": {
+              "x": 495,
+              "y": 430,
+              "width": 310,
+              "height": 125,
+              "rotatedWidth": 125,
+              "rotatedHeight": 310
+            },
+            "rawWidth": 310,
+            "rawHeight": 125,
+            "width": 316,
+            "height": 131,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/5c/5c105057-5438-4e04-9aa7-373d2a060d95.png",
+            "x": 492,
+            "y": 427,
+            "rotated": true,
+            "rotatedWidth": 131,
+            "rotatedHeight": 316
+          },
+          {
+            "name": "mason_tishiImg",
+            "uuid": "ba59e8b0-b96e-454f-acde-91a2caffc5ad",
+            "textureUuid": "22acc70c-6f97-4303-b98c-bb64b955e06e",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897191_image_14.png",
+            "trim": {
+              "x": 3,
+              "y": 729,
+              "width": 148,
+              "height": 148,
+              "rotatedWidth": 148,
+              "rotatedHeight": 148
+            },
+            "rawWidth": 148,
+            "rawHeight": 148,
+            "width": 154,
+            "height": 154,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/22/22acc70c-6f97-4303-b98c-bb64b955e06e.png",
+            "x": 0,
+            "y": 726,
+            "rotatedWidth": 154,
+            "rotatedHeight": 154
+          },
+          {
+            "name": "mason_icostarbg",
+            "uuid": "44e84fd6-f62d-4b1d-8dda-9fa155cfcfdd",
+            "textureUuid": "707a9bf3-b0f8-4147-9711-6c03e9d38c52",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897186_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 883,
+              "width": 246,
+              "height": 85,
+              "rotatedWidth": 246,
+              "rotatedHeight": 85
+            },
+            "rawWidth": 246,
+            "rawHeight": 85,
+            "width": 252,
+            "height": 91,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/70/707a9bf3-b0f8-4147-9711-6c03e9d38c52.png",
+            "x": 0,
+            "y": 880,
+            "rotatedWidth": 252,
+            "rotatedHeight": 91
+          },
+          {
+            "name": "mason_levelNum",
+            "uuid": "9fb310a5-9120-4336-8885-4d15492518d4",
+            "textureUuid": "f501f828-f03a-46ab-8021-8a8a6e09306a",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897190_image_11.png",
+            "trim": {
+              "x": 3,
+              "y": 974,
+              "width": 91,
+              "height": 41,
+              "rotatedWidth": 91,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 91,
+            "rawHeight": 41,
+            "width": 97,
+            "height": 47,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/f5/f501f828-f03a-46ab-8021-8a8a6e09306a.png",
+            "x": 0,
+            "y": 971,
+            "rotatedWidth": 97,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "mason_heart",
+            "uuid": "968bdd74-4834-4c42-a13a-3782366d36d7",
+            "textureUuid": "936def9a-9243-4148-92e1-12ea900e284f",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897187_image_9.png",
+            "trim": {
+              "x": 100,
+              "y": 974,
+              "width": 44,
+              "height": 37,
+              "rotatedWidth": 37,
+              "rotatedHeight": 44
+            },
+            "rawWidth": 44,
+            "rawHeight": 37,
+            "width": 50,
+            "height": 43,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/93/936def9a-9243-4148-92e1-12ea900e284f.png",
+            "x": 97,
+            "y": 971,
+            "rotated": true,
+            "rotatedWidth": 43,
+            "rotatedHeight": 50
+          },
+          {
+            "name": "mason_defeng1",
+            "uuid": "af5649a2-65e2-41c5-813f-4853c71de615",
+            "textureUuid": "e2cd6855-bdf7-4906-ba6f-b174e2081461",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897191_image_13.png",
+            "trim": {
+              "x": 143,
+              "y": 974,
+              "width": 26,
+              "height": 26,
+              "rotatedWidth": 26,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 26,
+            "rawHeight": 26,
+            "width": 32,
+            "height": 32,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/e2/e2cd6855-bdf7-4906-ba6f-b174e2081461.png",
+            "x": 140,
+            "y": 971,
+            "rotatedWidth": 32,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "mason_defeng2",
+            "uuid": "d8cdbd49-79d0-431b-b76d-74432e84f3f0",
+            "textureUuid": "ff416ec2-6e8e-4e6d-b69d-fbef3146bf72",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897201_image_18.png",
+            "trim": {
+              "x": 175,
+              "y": 974,
+              "width": 26,
+              "height": 26,
+              "rotatedWidth": 26,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 26,
+            "rawHeight": 26,
+            "width": 32,
+            "height": 32,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/ff/ff416ec2-6e8e-4e6d-b69d-fbef3146bf72.png",
+            "x": 172,
+            "y": 971,
+            "rotatedWidth": 32,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "mason_tishi2",
+            "uuid": "9acb6b87-b6cc-47b5-a4bb-71744e465234",
+            "textureUuid": "e3772a48-05b7-44b6-8234-ac2672a5e4c2",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897190_image_10.png",
+            "trim": {
+              "x": 157,
+              "y": 729,
+              "width": 134,
+              "height": 130,
+              "rotatedWidth": 130,
+              "rotatedHeight": 134
+            },
+            "rawWidth": 134,
+            "rawHeight": 130,
+            "width": 140,
+            "height": 136,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/e3/e3772a48-05b7-44b6-8234-ac2672a5e4c2.png",
+            "x": 154,
+            "y": 726,
+            "rotated": true,
+            "rotatedWidth": 136,
+            "rotatedHeight": 140
+          },
+          {
+            "name": "mason_touxiangborder",
+            "uuid": "46037ab2-7633-49bb-9a1f-54cbbf2ca95a",
+            "textureUuid": "0b7a5322-3d6c-4ccb-b507-70bc97dd0c2d",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897186_image_4.png",
+            "trim": {
+              "x": 255,
+              "y": 869,
+              "width": 90,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 90,
+            "rawHeight": 90,
+            "width": 96,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/0b/0b7a5322-3d6c-4ccb-b507-70bc97dd0c2d.png",
+            "x": 252,
+            "y": 866,
+            "rotatedWidth": 96,
+            "rotatedHeight": 96
+          },
+          {
+            "name": "mason_find",
+            "uuid": "baa47998-07e0-46fc-8c24-78ddec733da6",
+            "textureUuid": "6f426183-ed7b-4377-8706-9a522bdfa622",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897191_image_15.png",
+            "trim": {
+              "x": 255,
+              "y": 965,
+              "width": 54,
+              "height": 55,
+              "rotatedWidth": 54,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 54,
+            "rawHeight": 55,
+            "width": 60,
+            "height": 61,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/6f/6f426183-ed7b-4377-8706-9a522bdfa622.png",
+            "x": 252,
+            "y": 962,
+            "rotatedWidth": 60,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "mason_pauseicon",
+            "uuid": "14c0c879-6912-4df6-b6e8-3a38e2e90b7c",
+            "textureUuid": "1a0af009-2b47-450b-a1eb-83c5e08d2ff4",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897186_image_1.png",
+            "trim": {
+              "x": 293,
+              "y": 729,
+              "width": 86,
+              "height": 86,
+              "rotatedWidth": 86,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 86,
+            "rawHeight": 86,
+            "width": 92,
+            "height": 92,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/1a/1a0af009-2b47-450b-a1eb-83c5e08d2ff4.png",
+            "x": 290,
+            "y": 726,
+            "rotatedWidth": 92,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "mason_icon_yinxiao",
+            "uuid": "4c64afdb-1b53-420c-9e65-6e28907e1565",
+            "textureUuid": "f8ba16b8-8638-497a-bbb9-4285114a68ca",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897186_image_6.png",
+            "trim": {
+              "x": 385,
+              "y": 729,
+              "width": 86,
+              "height": 86,
+              "rotatedWidth": 86,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 86,
+            "rawHeight": 86,
+            "width": 92,
+            "height": 92,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/f8/f8ba16b8-8638-497a-bbb9-4285114a68ca.png",
+            "x": 382,
+            "y": 726,
+            "rotatedWidth": 92,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "mason_icon_music2",
+            "uuid": "63082735-200f-4ea7-a4d9-6b5d289dc0e4",
+            "textureUuid": "988aa03e-077d-4b6d-adc4-669037abf23e",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897186_image_8.png",
+            "trim": {
+              "x": 477,
+              "y": 746,
+              "width": 86,
+              "height": 86,
+              "rotatedWidth": 86,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 86,
+            "rawHeight": 86,
+            "width": 92,
+            "height": 92,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/98/988aa03e-077d-4b6d-adc4-669037abf23e.png",
+            "x": 474,
+            "y": 743,
+            "rotatedWidth": 92,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "mason_icon_exit",
+            "uuid": "a5a3882b-c8e0-42c5-bc85-a2107fea1713",
+            "textureUuid": "ea3790aa-6825-4884-a46f-7d0cb793dbb1",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897191_image_12.png",
+            "trim": {
+              "x": 351,
+              "y": 821,
+              "width": 86,
+              "height": 86,
+              "rotatedWidth": 86,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 86,
+            "rawHeight": 86,
+            "width": 92,
+            "height": 92,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/ea/ea3790aa-6825-4884-a46f-7d0cb793dbb1.png",
+            "x": 348,
+            "y": 818,
+            "rotatedWidth": 92,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "mason_iocn_yingyue",
+            "uuid": "cb595d3c-ade3-4ede-80f8-ef7370b89486",
+            "textureUuid": "8fff0128-fbe5-4dd9-ad1a-98e65463f0a7",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897200_image_17.png",
+            "trim": {
+              "x": 351,
+              "y": 913,
+              "width": 86,
+              "height": 86,
+              "rotatedWidth": 86,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 86,
+            "rawHeight": 86,
+            "width": 92,
+            "height": 92,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/8f/8fff0128-fbe5-4dd9-ad1a-98e65463f0a7.png",
+            "x": 348,
+            "y": 910,
+            "rotatedWidth": 92,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "mason_icon_sound2",
+            "uuid": "ff3f60d7-5dd0-4dbc-b9f6-6f9b29bae769",
+            "textureUuid": "41649c39-1ce4-4eae-bd54-de39fa939026",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897207_image_19.png",
+            "trim": {
+              "x": 443,
+              "y": 838,
+              "width": 86,
+              "height": 86,
+              "rotatedWidth": 86,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 86,
+            "rawHeight": 86,
+            "width": 92,
+            "height": 92,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/41/41649c39-1ce4-4eae-bd54-de39fa939026.png",
+            "x": 440,
+            "y": 835,
+            "rotatedWidth": 92,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "mason_exit",
+            "uuid": "c7a612bb-972c-44d2-9047-4e52dbe2b4c8",
+            "textureUuid": "a5958738-314c-48a6-bb88-4bfc2c51f46f",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897191_image_16.png",
+            "trim": {
+              "x": 535,
+              "y": 838,
+              "width": 87,
+              "height": 85,
+              "rotatedWidth": 87,
+              "rotatedHeight": 85
+            },
+            "rawWidth": 87,
+            "rawHeight": 85,
+            "width": 93,
+            "height": 91,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/a5/a5958738-314c-48a6-bb88-4bfc2c51f46f.png",
+            "x": 532,
+            "y": 835,
+            "rotatedWidth": 93,
+            "rotatedHeight": 91
+          },
+          {
+            "name": "mason_err",
+            "uuid": "265773da-ae05-4c92-9c8a-bb53f58521b9",
+            "textureUuid": "b16eae65-4a88-42d1-95ee-3d3ba7dbc05a",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897186_image_2.png",
+            "trim": {
+              "x": 535,
+              "y": 929,
+              "width": 62,
+              "height": 62,
+              "rotatedWidth": 62,
+              "rotatedHeight": 62
+            },
+            "rawWidth": 62,
+            "rawHeight": 62,
+            "width": 68,
+            "height": 68,
+            "originalPath": "/Users/aw/Desktop/find7/library/imports/b1/b16eae65-4a88-42d1-95ee-3d3ba7dbc05a.png",
+            "x": 532,
+            "y": 926,
+            "rotatedWidth": 68,
+            "rotatedHeight": 68
+          }
+        ],
+        "width": 625,
+        "height": 1023,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find7/temp/TexturePacker/build/native/assets/img/mason/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find7/temp/TexturePacker/build/native/assets/img/mason/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

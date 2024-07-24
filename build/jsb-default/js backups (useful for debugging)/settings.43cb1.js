@@ -1,0 +1,1 @@
+window._CCSettings={platform:"ios",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/bright.fire",orientation:"",server:"",jsList:[],bundleVers:{internal:"627df",resources:"6cb27",main:"6629d"}};

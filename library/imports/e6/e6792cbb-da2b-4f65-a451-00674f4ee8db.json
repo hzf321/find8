@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "amelia_dialogbigbg",
+    "texture": "ee24329a-5bc6-42ab-82c9-17b455c1ad5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      650,
+      662
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      650,
+      662
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

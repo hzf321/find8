@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "988aa03e-077d-4b6d-adc4-669037abf23e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 86,
+  "height": 86,
+  "platformSettings": {},
+  "subMetas": {
+    "mason_icon_music2": {
+      "ver": "1.0.6",
+      "uuid": "63082735-200f-4ea7-a4d9-6b5d289dc0e4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "988aa03e-077d-4b6d-adc4-669037abf23e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 86,
+      "height": 86,
+      "rawWidth": 86,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

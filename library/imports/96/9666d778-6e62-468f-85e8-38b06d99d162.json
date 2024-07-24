@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "william_startbtn",
+    "texture": "c7416ed4-8704-47d4-b6ae-673233a5cfdf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      344,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      344,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
